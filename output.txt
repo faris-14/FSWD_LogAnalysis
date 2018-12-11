@@ -1,0 +1,18 @@
+***********OUTPUT************
+
+Q1: Most Popular Articles:
+"Candidate Is Jerk  --  338647 views "
+"Bears Love Berries  --  253801 views "
+"Bad Things Gone  --  170098 views "
+............................................................
+
+ Q2: Most Popular Article Authors :
+"Ursula La Multa  --  507594 views"
+"Rudolf Von Treppenwitz  --  423457 views"
+"Anonymous Contributor  --  170098 views"
+"Markoff Chaney  --  84557 views"
+............................................................
+
+ Q3 :which days did more than 1% of requests lead to errors?
+" Jul 17 , 2016 -- 2.263% errors"
+............................................................
